@@ -265,5 +265,35 @@
             }
         ],
         "advicePoints": []
+    },
+    {
+        "id": "bundled-bd-61146c89-67f4-4b42-935b-fc07b597ad79",
+        "country": "BD",
+        "name": "Telo",
+        "keywords": "",
+        "medicines": [
+            {
+                "name": "Tryptin",
+                "form": "Tab.",
+                "strength": "10 mg",
+                "morning": "",
+                "afternoon": "",
+                "night": "",
+                "customDose": "",
+                "meal": "After meal",
+                "duration": "",
+                "unit": "Continue",
+                "frequency": "",
+                "route": "",
+                "instructions": "",
+                "eligibility": "",
+                "optionGroup": "",
+                "weightBased": false,
+                "ingredient": "",
+                "country": "BD",
+                "bedtime": "1"
+            }
+        ],
+        "advicePoints": []
     }
 ]
