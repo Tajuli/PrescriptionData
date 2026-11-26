@@ -161,5 +161,35 @@
             "পর্যাপ্ত পরিমাণ প্রোটিন সমৃদ্ধ খাবার যেমন: ডিম, দুধ, মাছ, মাংস ইত্যাদি  খাবেন।",
             "৭-৮ ঘন্টা নিরবিচ্ছিন্ন ঘুম নিশ্চিত করবেন।"
         ]
+    },
+    {
+        "id": "bundled-bd-e8b12cbb-1476-4640-807b-83ee4e3c1b6d",
+        "country": "BD",
+        "name": "Taj",
+        "keywords": "",
+        "medicines": [
+            {
+                "name": "Tryptin",
+                "form": "Tab.",
+                "strength": "10 mg",
+                "morning": "",
+                "afternoon": "",
+                "night": "",
+                "customDose": "",
+                "meal": "After meal",
+                "duration": "",
+                "unit": "Continue",
+                "frequency": "",
+                "route": "",
+                "instructions": "",
+                "eligibility": "",
+                "optionGroup": "",
+                "weightBased": false,
+                "ingredient": "",
+                "country": "BD",
+                "bedtime": "1"
+            }
+        ],
+        "advicePoints": []
     }
 ]
