@@ -86,5 +86,80 @@
         "keywords": "hairfall alopecia চুল পড়া পুরুষ",
         "medicines": [],
         "advicePoints": []
+    },
+    {
+        "id": "bundled-bd-4bb9fb4c-237a-4a03-aa07-1fd182bed122",
+        "country": "BD",
+        "name": "Hair fall",
+        "keywords": "",
+        "medicines": [
+            {
+                "name": "Toco Soft",
+                "form": "Cap.",
+                "strength": "",
+                "morning": "",
+                "afternoon": "1",
+                "night": "",
+                "customDose": "",
+                "meal": "After meal",
+                "duration": "3",
+                "unit": "Months",
+                "frequency": "",
+                "route": "",
+                "instructions": "",
+                "eligibility": "",
+                "optionGroup": "",
+                "weightBased": false,
+                "ingredient": "",
+                "country": "BD",
+                "bedtime": ""
+            },
+            {
+                "name": "K2cal",
+                "form": "Tab.",
+                "strength": "",
+                "morning": "",
+                "afternoon": "1",
+                "night": "",
+                "customDose": "",
+                "meal": "After meal",
+                "duration": "30",
+                "unit": "Days",
+                "frequency": "",
+                "route": "",
+                "instructions": "",
+                "eligibility": "",
+                "optionGroup": "",
+                "weightBased": false,
+                "ingredient": "",
+                "country": "BD",
+                "bedtime": ""
+            },
+            {
+                "name": "Filwell Gold",
+                "form": "Tab.",
+                "strength": "",
+                "morning": "",
+                "afternoon": "",
+                "night": "1",
+                "customDose": "",
+                "meal": "After meal",
+                "duration": "3",
+                "unit": "Months",
+                "frequency": "",
+                "route": "",
+                "instructions": "",
+                "eligibility": "",
+                "optionGroup": "",
+                "weightBased": false,
+                "ingredient": "",
+                "country": "BD",
+                "bedtime": ""
+            }
+        ],
+        "advicePoints": [
+            "পর্যাপ্ত পরিমাণ প্রোটিন সমৃদ্ধ খাবার যেমন: ডিম, দুধ, মাছ, মাংস ইত্যাদি  খাবেন।",
+            "৭-৮ ঘন্টা নিরবিচ্ছিন্ন ঘুম নিশ্চিত করবেন।"
+        ]
     }
 ]
