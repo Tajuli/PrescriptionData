@@ -191,5 +191,35 @@
             }
         ],
         "advicePoints": []
+    },
+    {
+        "id": "bundled-bd-bab30893-871d-4336-aa2a-4d8e39e0a9b5",
+        "country": "BD",
+        "name": "Telo",
+        "keywords": "",
+        "medicines": [
+            {
+                "name": "Jinc",
+                "form": "Tab.",
+                "strength": "",
+                "morning": "",
+                "afternoon": "",
+                "night": "1",
+                "customDose": "",
+                "meal": "After meal",
+                "duration": "32",
+                "unit": "Months",
+                "frequency": "",
+                "route": "",
+                "instructions": "",
+                "eligibility": "",
+                "optionGroup": "",
+                "weightBased": false,
+                "ingredient": "",
+                "country": "BD",
+                "bedtime": ""
+            }
+        ],
+        "advicePoints": []
     }
 ]
