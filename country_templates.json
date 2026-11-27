@@ -155,6 +155,27 @@
                 "ingredient": "",
                 "country": "BD",
                 "bedtime": ""
+            },
+            {
+                "name": "Recur",
+                "form": "Tab.",
+                "strength": "1 mg",
+                "morning": "1",
+                "afternoon": "",
+                "night": "",
+                "customDose": "",
+                "meal": "After meal",
+                "duration": "",
+                "unit": "Continue",
+                "frequency": "",
+                "route": "",
+                "instructions": "",
+                "eligibility": "",
+                "optionGroup": "",
+                "weightBased": false,
+                "ingredient": "",
+                "country": "BD",
+                "bedtime": ""
             }
         ],
         "advicePoints": [
