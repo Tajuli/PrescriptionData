@@ -284,5 +284,56 @@
             }
         ],
         "advicePoints": []
+    },
+    {
+        "id": "bundled-bd-513f04fc-9505-4e8b-9442-fcce84e80fd3",
+        "country": "BD",
+        "name": "Scabies",
+        "keywords": "",
+        "medicines": [
+            {
+                "name": "Scabo",
+                "form": "Tab.",
+                "strength": "12 mg",
+                "morning": "1",
+                "afternoon": "",
+                "night": "",
+                "customDose": "(Body weight 36-65kg)",
+                "meal": "After meal",
+                "duration": "2",
+                "unit": "Weeks",
+                "frequency": "Take once every 4 days",
+                "route": "",
+                "instructions": "",
+                "eligibility": "Avoid use during pregnancy.",
+                "optionGroup": "",
+                "weightBased": false,
+                "ingredient": "",
+                "country": "BD",
+                "bedtime": ""
+            },
+            {
+                "name": "Scabo",
+                "form": "Tab.",
+                "strength": "6 mg",
+                "morning": "1",
+                "afternoon": "",
+                "night": "",
+                "customDose": "(Body weight 20-35kg)",
+                "meal": "After meal",
+                "duration": "2",
+                "unit": "Weeks",
+                "frequency": "Take once every 4 days",
+                "route": "",
+                "instructions": "",
+                "eligibility": "Avoid use during pregnancy.",
+                "optionGroup": "",
+                "weightBased": false,
+                "ingredient": "",
+                "country": "BD",
+                "bedtime": ""
+            }
+        ],
+        "advicePoints": []
     }
 ]
