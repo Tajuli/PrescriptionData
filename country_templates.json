@@ -623,6 +623,27 @@
                 "ingredient": "",
                 "country": "BD",
                 "bedtime": ""
+            },
+            {
+                "name": "Select Plus 2%",
+                "form": "Shampoo.",
+                "strength": "",
+                "morning": "",
+                "afternoon": "",
+                "night": "",
+                "customDose": "মাথা ও শরীরে মেখে ৫ মিনিট রেখে ঘষে ঘষে  পরিষ্কার করবেন সপ্তাহে অন্তত ৪ দিন, চলবে।",
+                "meal": "",
+                "duration": "",
+                "unit": "",
+                "frequency": "",
+                "route": "",
+                "instructions": "",
+                "eligibility": "",
+                "optionGroup": "",
+                "weightBased": false,
+                "ingredient": "",
+                "country": "BD",
+                "bedtime": ""
             }
         ],
         "advicePoints": []
